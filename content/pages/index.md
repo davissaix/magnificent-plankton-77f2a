@@ -61,7 +61,7 @@ sections:
       product.
     badge:
       type: Badge
-      label: Case study
+      label: Moda y catalogos
       styles:
         self:
           textAlign: left
