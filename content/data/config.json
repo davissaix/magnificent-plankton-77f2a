@@ -30,7 +30,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Sign up",
+                "label": "HABLEMOS",
                 "url": "/",
                 "altText": "Sign up",
                 "style": "primary"
