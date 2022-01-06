@@ -61,7 +61,7 @@ sections:
       product.
     badge:
       type: Badge
-      label: Moda y catalogos
+      label: Moda y catÁLogos
       styles:
         self:
           textAlign: left
