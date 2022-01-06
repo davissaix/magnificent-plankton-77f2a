@@ -13,7 +13,7 @@ sections:
        Participaciones en varias exposiciones a nivel nacional en fotografía artistica.
     actions:
       - type: Button
-        label: Get Started
+        label: Hablemos
         url: 'https://www.stackbit.com/'
         style: primary
       - type: Link
