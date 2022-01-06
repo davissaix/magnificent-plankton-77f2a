@@ -6,7 +6,11 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: Fotografía de moda
-    subtitle: 'One platform, one community.'
+    subtitle: >-
+      Fotógrafo urbano y de moda, colaborando con grandes empresas textiles y
+      publicitarias realizando fotos para catálogos y de
+       viajes, con experiencia en manejo de modelos e iluminación. 
+       Participaciones en varias exposiciones a nivel nacional en fotografía artistica.
     actions:
       - type: Button
         label: Get Started
