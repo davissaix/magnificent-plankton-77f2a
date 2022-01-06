@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: Fotógrafo de moda
+    title: Fotógrafía de moda
     subtitle: 'One platform, one community.'
     actions:
       - type: Button
