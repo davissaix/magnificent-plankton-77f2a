@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: Fotografía de moda
+    title: Fotografo
     subtitle: >-
       Fotógrafo urbano y de moda, colaborando con grandes empresas textiles y
       publicitarias realizando fotos para catálogos y de
