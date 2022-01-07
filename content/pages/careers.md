@@ -136,7 +136,7 @@ sections:
           placeholder: Address
           isRequired: false
           width: full
-      submitLabel: Submit
+      submitLabel: Enviar
       styles:
         submitLabel:
           textAlign: center
