@@ -276,9 +276,6 @@ sections:
   - elementId: ''
     colors: colors-a
     title: Fotografía Artística
-    text: >
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
     actions:
       - type: Button
         label: Get Started
