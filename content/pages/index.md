@@ -221,9 +221,7 @@ sections:
               - pl-4
               - pb-6
               - pr-4
-        subtitle: >-
-          David es un gran fotógrafo, super profesional y respetuoso con una
-          perspectiva distinta de las cosas.
+        subtitle: ' Trabajar con David es muy agradable, entiende las ideas y lo que la marca requiere proyectar.'
       - type: FeaturedItem
         title: Focused
         text: >
