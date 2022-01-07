@@ -44,7 +44,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: inset
-    title: Get early access
+    title: Contáctame
     text: >
       Sign up your team today to be the first to try out our new product to
       increae your team’s productivity
