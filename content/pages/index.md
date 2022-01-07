@@ -57,8 +57,8 @@ sections:
     backgroundSize: inset
     title: Moda y catalogos
     text: >
-      Learn how top tech companies have learned working remote using our
-      product.
+      Fotografía de prensa, en eventos de moda, desfiles, eventos sociales,
+      creación de catálogos para ropa urbana, vestido de baño, ropa interior. 
     badge:
       type: Badge
       label: Fotógrafo de Modas
