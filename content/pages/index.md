@@ -175,7 +175,7 @@ sections:
       you’re looking for.
     items:
       - type: FeaturedItem
-        title: Faster
+        title: Anna Suarez
         featuredImage:
           url: /images/faster.svg
           altText: altText of the image
