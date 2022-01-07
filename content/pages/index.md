@@ -278,7 +278,7 @@ sections:
     title: Fotografía Artística
     actions:
       - type: Button
-        label: Get Started
+        label: Hablemos
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
