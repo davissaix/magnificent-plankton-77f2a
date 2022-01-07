@@ -223,7 +223,7 @@ sections:
               - pr-4
         subtitle: ' Trabajar con David es muy agradable, entiende las ideas y lo que la marca requiere proyectar.'
       - type: FeaturedItem
-        title: Focused
+        title: M Alejandra Modelo
         featuredImage:
           url: /images/focused.svg
           altText: altText of the image
