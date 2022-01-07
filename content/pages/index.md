@@ -330,7 +330,7 @@ sections:
         style: primary
         elementId: hero-main-button
       - type: Link
-        label: Learn More
+        label: Saber más
         url: /
         showIcon: true
         icon: arrowRight
