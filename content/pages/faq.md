@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - colors: colors-a
     elementId: ''
-    title: Need Answers?
+    title: Prensa
     items:
       - question: How it this different from what we have today?
         answer: >-
