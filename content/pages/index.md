@@ -322,7 +322,7 @@ sections:
                 Fotografía en artes finas, expresando la belleza y sensualidad del cuerpo femenino, para modelos o mujeres que simplemente quieren verse sensuales y recobrar la confianza en sí mismas. 
   - elementId: ''
     colors: colors-a
-    title: And a strong value proposition
+    title: Fotógrafo de viajes
     text: >
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
       together
