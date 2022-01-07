@@ -486,7 +486,7 @@ sections:
       - quote: >
           Me encanta la sutileza con la que todo surge, me siento en confianza y
           disfruto de cada sesión con David.
-        name: Carla Rogers
+        name: Camila A.
         title: Happy customer
         image:
           type: ImageBlock
