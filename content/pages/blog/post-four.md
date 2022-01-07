@@ -1,5 +1,5 @@
 ---
-title: Convert commute time to family time
+title: Expo fotografía alternativa Medellín
 layout: PostLayout
 date: '2021-11-03'
 author: content/data/team/desmond-eagle.json
@@ -20,8 +20,16 @@ bottomSections:
       self:
         height: auto
         width: wide
-        margin: ['mt-0', 'mb-0', 'ml-0', 'mr-0']
-        padding: ['pt-12', 'pb-56', 'pr-4', 'pl-4']
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
         justifyContent: center
       title:
         textAlign: center
