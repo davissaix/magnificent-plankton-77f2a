@@ -169,7 +169,7 @@ sections:
     type: MediaGallerySection
   - colors: colors-a
     elementId: ''
-    title: Trabajos realizados
+    title: Lo que mis clientes dicen
     subtitle: >-
       These are all excellent features that will provide exactly the things
       you’re looking for.
