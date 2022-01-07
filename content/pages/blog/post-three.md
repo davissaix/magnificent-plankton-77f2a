@@ -1,5 +1,5 @@
 ---
-title: expo galería de artistas inconvencionales
+title: expo galería de artistas no convencionales
 layout: PostLayout
 date: '2021-07-01'
 author: content/data/team/hilary-ouse.json
