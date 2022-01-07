@@ -61,7 +61,7 @@ sections:
       product.
     badge:
       type: Badge
-      label: Moda y catÁLogos
+      label: Fotógrafo de Modas
       styles:
         self:
           textAlign: left
