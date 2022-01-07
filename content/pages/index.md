@@ -218,6 +218,9 @@ sections:
               - pl-4
               - pb-6
               - pr-4
+        subtitle: >-
+          David es un gran fotógrafo, super profesional y respetuoso con una
+          perspectiva distinta de las cosas.
       - type: FeaturedItem
         title: Focused
         text: >
