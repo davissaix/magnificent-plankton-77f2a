@@ -224,9 +224,6 @@ sections:
         subtitle: ' Trabajar con David es muy agradable, entiende las ideas y lo que la marca requiere proyectar.'
       - type: FeaturedItem
         title: Focused
-        text: >
-          ###### David realmente entiende mis necesidades y sabe sacar lo mejor
-          de mi haciendo que todo fluya. Estoy muy satisfecha.
         featuredImage:
           url: /images/focused.svg
           altText: altText of the image
