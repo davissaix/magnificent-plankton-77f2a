@@ -5,7 +5,7 @@ sections:
   - elementId: ''
     colors: colors-h
     title: Galería
-    subtitle: You should join us.
+    subtitle: Estos son algunos trabajos realizados
     media:
       type: ImageBlock
       url: /images/hero-4.jpg
