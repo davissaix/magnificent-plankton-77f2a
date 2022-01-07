@@ -88,7 +88,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Home",
+                "label": "principal",
                 "url": "/",
                 "altText": ""
             },
