@@ -318,6 +318,8 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
+    subtitle: |2
+                Fotografía en artes finas, expresando la belleza y sensualidad del cuerpo femenino, para modelos o mujeres que simplemente quieren verse sensuales y recobrar la confianza en sí mismas. 
   - elementId: ''
     colors: colors-a
     title: And a strong value proposition
