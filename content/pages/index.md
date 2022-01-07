@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: Fotógrafo
+    title: Fotógrafos
     subtitle: >-
       Fotógrafo urbano y de moda, colaborando con grandes empresas textiles y
       publicitarias realizando fotos para catálogos y de
@@ -14,7 +14,7 @@ sections:
     actions:
       - type: Button
         label: Hablemos
-        url: 'https://www.stackbit.com/'
+        url: '/contact.md'
         style: primary
       - type: Link
         label: SABER MÁS
