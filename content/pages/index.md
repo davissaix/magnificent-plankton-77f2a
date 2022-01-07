@@ -244,6 +244,7 @@ sections:
               - pl-4
               - pb-6
               - pr-4
+        subtitle: v
     columns: 3
     enableHover: false
     styles:
