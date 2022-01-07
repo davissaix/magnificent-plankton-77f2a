@@ -325,7 +325,7 @@ sections:
     title: Fotógrafo de viajes
     actions:
       - type: Button
-        label: Get Started
+        label: Contáctame
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
