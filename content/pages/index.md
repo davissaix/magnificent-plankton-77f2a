@@ -170,9 +170,7 @@ sections:
   - colors: colors-a
     elementId: ''
     title: Lo que mis clientes dicen
-    subtitle: >-
-      These are all excellent features that will provide exactly the things
-      you’re looking for.
+    subtitle: Opiniones de clientes felices
     items:
       - type: FeaturedItem
         title: Anna Suarez
