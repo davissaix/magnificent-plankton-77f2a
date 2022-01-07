@@ -41,7 +41,7 @@ sections:
       imágenes que has visto, con todos los libros que has leído, con toda la
       música que has escuchado, y con toda la gente a la que has amado*
     name: Ansel Adams
-    title: Someone from the team
+    title: Padre de la fotografía
     styles:
       self:
         height: auto
