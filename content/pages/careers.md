@@ -40,7 +40,7 @@ sections:
       ## *No haces fotografía sólo con la cámara. La haces con todas las
       imágenes que has visto, con todos los libros que has leído, con toda la
       música que has escuchado, y con toda la gente a la que has amado*
-    name: Carla Rogers
+    name: Ansel Adams
     title: Someone from the team
     styles:
       self:
