@@ -244,7 +244,9 @@ sections:
               - pl-4
               - pb-6
               - pr-4
-        subtitle: v
+        subtitle: >-
+          David realmente entiende mis necesidades y sabe sacar lo mejor de mi
+          haciendo que todo fluya. Estoy muy satisfecha.
     columns: 3
     enableHover: false
     styles:
