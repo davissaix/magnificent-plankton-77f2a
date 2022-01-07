@@ -484,8 +484,8 @@ sections:
     variant: variant-a
     testimonials:
       - quote: >
-          Such a great experience to be using this product. It really helped
-          with what I needed help with.
+          Me encanta la sutileza con la que todo surge, me siento en confianza y
+          disfruto de cada sesión con David.
         name: Carla Rogers
         title: Happy customer
         image:
