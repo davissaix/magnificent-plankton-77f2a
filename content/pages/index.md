@@ -365,6 +365,9 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
+    subtitle: >-
+      Fotografía de lugares vacacionales, airbnb, fincas u hoteles y lugares a
+      promocionar.
   - elementId: ''
     colors: colors-a
     variant: variant-b
