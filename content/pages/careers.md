@@ -118,7 +118,7 @@ sections:
         - type: TextFormControl
           name: last-name
           label: Your last name
-          hideLabel: false
+          hideLabel: true
           placeholder: Last name
           isRequired: false
           width: 1/2
