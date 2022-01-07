@@ -103,12 +103,6 @@
                 "label": "prensa",
                 "url": "/faq",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
             }
         ],
         "socialLinks": [
