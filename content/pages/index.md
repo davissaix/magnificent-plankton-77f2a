@@ -221,8 +221,8 @@ sections:
       - type: FeaturedItem
         title: Focused
         text: >
-          Learn how top tech companies have learned working remote using our
-          produc
+          ###### David realmente entiende mis necesidades y sabe sacar lo mejor
+          de mi haciendo que todo fluya. Estoy muy satisfecha.
         featuredImage:
           url: /images/focused.svg
           altText: altText of the image
