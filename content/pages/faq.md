@@ -59,7 +59,7 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
-      submitLabel: Sign Up
+      submitLabel: Enviar
       styles:
         submitLabel:
           textAlign: center
