@@ -99,9 +99,8 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: 'Si te interesa mi trabajo, trabajemos juntos.'
-    text: >-
-      We might have more roles soon, and we’ll contact you if we think there
-      might be a good match
+    text: |
+      Hablemos, cuéntame lo que necesitas.
     form:
       type: FormBlock
       variant: variant-a
