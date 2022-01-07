@@ -222,7 +222,7 @@ sections:
         title: Focused
         text: >
           Learn how top tech companies have learned working remote using our
-          product.
+          produc
         featuredImage:
           url: /images/focused.svg
           altText: altText of the image
