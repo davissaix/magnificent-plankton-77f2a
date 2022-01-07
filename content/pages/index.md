@@ -486,4 +486,6 @@ sections:
         textAlign: center
       text:
         textAlign: center
+    text: |
+      Si quieres más información, no dudes en escribirme.
 ---
