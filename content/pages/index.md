@@ -487,7 +487,7 @@ sections:
           Me encanta la sutileza con la que todo surge, me siento en confianza y
           disfruto de cada sesión con David.
         name: Camila A.
-        title: Happy customer
+        title: Cliente
         image:
           type: ImageBlock
           url: /images/carla.jpg
