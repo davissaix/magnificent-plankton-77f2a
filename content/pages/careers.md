@@ -36,9 +36,10 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-h
-    quote: >-
-      ## Being part of this team has been incredible. We’ve fill each other’s
-      gaps, and we go to lunch together
+    quote: >
+      ## *No haces fotografía sólo con la cámara. La haces con todas las
+      imágenes que has visto, con todos los libros que has leído, con toda la
+      música que has escuchado, y con toda la gente a la que has amado*
     name: Carla Rogers
     title: Someone from the team
     styles:
