@@ -200,7 +200,7 @@ sections:
           David es un gran fotógrafo, super profesional y respetuoso con una
           perspectiva distinta de las cosas.
       - type: FeaturedItem
-        title: Smarter
+        title: SunBath Store
         featuredImage:
           url: /images/smarter.svg
           altText: altText of the image
