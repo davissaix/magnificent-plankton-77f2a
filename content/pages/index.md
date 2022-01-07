@@ -55,7 +55,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: Moda y catalogos
+    title: Moda y catálogos
     text: >
       Fotografía de prensa, en eventos de moda, desfiles, eventos sociales,
       creación de catálogos para ropa urbana, vestido de baño, ropa interior. 
