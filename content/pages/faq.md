@@ -108,7 +108,7 @@ sections:
     type: FaqSection
   - elementId: ''
     showDate: true
-    title: Recent posts
+    title: Publicaciones Recientes
     variant: variant-b
     colors: colors-a
     posts:
