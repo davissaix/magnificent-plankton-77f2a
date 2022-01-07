@@ -109,7 +109,7 @@ sections:
       destination: ''
       fields:
         - type: TextFormControl
-          name: first-name
+          name: primer nombre
           label: Your first name
           hideLabel: true
           placeholder: First name
