@@ -455,7 +455,7 @@ sections:
         - name: email
           label: Email
           hideLabel: true
-          placeholder: tu Email
+          placeholder: Tu Email
           isRequired: true
           width: full
           type: EmailFormControl
