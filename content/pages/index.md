@@ -169,7 +169,7 @@ sections:
     type: MediaGallerySection
   - colors: colors-a
     elementId: ''
-    title: Remote doesn’t mean alone. Here are so great features
+    title: Trabajos realizados
     subtitle: >-
       These are all excellent features that will provide exactly the things
       you’re looking for.
